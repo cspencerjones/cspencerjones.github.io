@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | C. Spencer Jones</title>
+    <link>https://cspencerjones.github.io/publication/</link>
+      <atom:link href="https://cspencerjones.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cspencerjones.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://cspencerjones.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Isopycnal Mixing Controls Deep Ocean Ventilation</title>
+      <link>https://cspencerjones.github.io/publication/jones-2019-isopycnal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cspencerjones.github.io/publication/jones-2019-isopycnal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Components of Upper-Ocean Salt Transport by the Gyres and the Meridional Overturning Circulation</title>
+      <link>https://cspencerjones.github.io/publication/jones-2018-components/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cspencerjones.github.io/publication/jones-2018-components/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size matters: Another reason why the Atlantic is saltier than the Pacific</title>
+      <link>https://cspencerjones.github.io/publication/jones-2017-size/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cspencerjones.github.io/publication/jones-2017-size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warm-route versus cold-route interbasin exchange in the meridional overturning circulation</title>
+      <link>https://cspencerjones.github.io/publication/cessi-2017-warm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cspencerjones.github.io/publication/cessi-2017-warm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interbasin transport of the meridional overturning circulation</title>
+      <link>https://cspencerjones.github.io/publication/jones-2016-interbasin/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cspencerjones.github.io/publication/jones-2016-interbasin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravity current propagation up a valley</title>
+      <link>https://cspencerjones.github.io/publication/jones-2015-gravity/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cspencerjones.github.io/publication/jones-2015-gravity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

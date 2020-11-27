@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan P Abernathey | C. Spencer Jones</title>
+    <link>https://cspencerjones.github.io/author/ryan-p-abernathey/</link>
+      <atom:link href="https://cspencerjones.github.io/author/ryan-p-abernathey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ryan P Abernathey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cspencerjones.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ryan P Abernathey</title>
+      <link>https://cspencerjones.github.io/author/ryan-p-abernathey/</link>
+    </image>
+    
+    <item>
+      <title>Isopycnal Mixing Controls Deep Ocean Ventilation</title>
+      <link>https://cspencerjones.github.io/publication/jones-2019-isopycnal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cspencerjones.github.io/publication/jones-2019-isopycnal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -66,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an Associate Research Scientist at Lamont Dohery Earth Observatory. My research focuses on ocean dynamics, particularly on how the ocean transports heat and other tracers around the globe. I use a combination of theory, ocean models and scalable analysis tools in python. Recently I have been investgating the role of isopycnal mixing in ventilating the deep ocean, both today and at the Last Glacial Maximum.

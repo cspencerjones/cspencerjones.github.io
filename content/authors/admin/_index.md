@@ -1,6 +1,6 @@
 ---
 # Display name
-title: C. Spencer Jones
+title: C. Spencer Jones (he/him)
 
 # Is this the primary user of the site?
 superuser: true
